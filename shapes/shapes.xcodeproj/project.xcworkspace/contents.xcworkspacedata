@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:drawing.xcodeproj">
+      location = "self:shapes.xcodeproj">
    </FileRef>
 </Workspace>
